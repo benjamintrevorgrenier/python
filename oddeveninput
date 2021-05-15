@@ -1,0 +1,5 @@
+number = int(input("Enter your favorite number: "))
+if (number % 2 == 0):
+    print('You are an Even Steven!!!')
+else:
+    print("You are an odd ball")
