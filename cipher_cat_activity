@@ -1,0 +1,7 @@
+1. A Caesar Cipher (or Cipher Wheel) is an ancient mechanism for encrypting text and a popular children's toy. It encrypts a message by shifting each alphabetic character in the text by a fixed amount. For example, a Caesar cipher with a shift of 4 translates a to e, b to f etc.
+            abcdefghijklmnopqrstuvwxyz
+            efghijklmnopqrstuvwxyzabcd  
+and would encrypt helloworld as lippsasvph.
+Write a program in python that would, convert a string into Caesar cipher.
+
+2. Return True if the string "cat" and "dog" appear the same number of times in the given string.
